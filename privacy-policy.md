@@ -31,6 +31,6 @@ To revoke access to your data from the Backtick Chrome extension, uninstall the 
 
 ## Contact
 
-<zachbrogan+backtick@gmail.com>
+zachbrogan+backtick@gmail.com
 
 _Last upated January 13, 2022_
