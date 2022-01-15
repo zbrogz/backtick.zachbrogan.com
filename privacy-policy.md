@@ -1,5 +1,3 @@
-![Backtick logo](./images/icon-128.png)
-
 # [Backtick](https://backtick.zachbrogan.com) Privacy Policy
 
 The Backtick Chrome extension handles all user data securely and privately.

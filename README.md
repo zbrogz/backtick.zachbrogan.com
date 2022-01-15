@@ -1,8 +1,6 @@
-![Backtick logo](./images/icon-128.png)
-
 # [Backtick](https://backtick.zachbrogan.com)
 
-Write inline code inside Google Docs. Just enclose a word or phrase with `backticks` and it will be automatically formatted as inline code.
+Write inline code inside Google Docs. Just enclose a word or phrase with \`backticks\` and it will be automatically formatted as `inline code`.
 
 A great tool for software developers who are used to the feature in Slack, Github, Jira, Markdown files, etc.
 

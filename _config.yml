@@ -1,3 +1,6 @@
+title: Backtick
+logo: /images/icon-500.png
+description: Website for the Backtick Chrome extension
 plugins:
     - jekyll-relative-links
 relative_links:
@@ -6,5 +9,4 @@ relative_links:
 include:
     - README.md
     - privacy-policy.md
-
 theme: jekyll-theme-minimal
