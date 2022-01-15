@@ -1,3 +1,5 @@
+![Backtick logo](./images/icon-128.png)
+
 # [Backtick](https://backtick.zachbrogan.com)
 
 Write inline code inside Google Docs. Just enclose a word or phrase with `backticks` and it will be automatically formatted as inline code.
@@ -35,6 +37,13 @@ Due to the way the Google Docs API was designed, there are some limitations to t
 -   To "escape" backtick characters in your document, format each backtick character differently from the surrounding text. For example, bolding the `s, but leaving text before and after unbolded will hide the characters from the extension.
 -   The formatting will happen more quickly when typing another character immediately after pressing the closing backtick character. The reason is complicated, but is essentially to preserve the existing text formatting and avoid extraneous spaces.
 
-TODO: Add link to Chrome extension store
-
 ## [Privacy Policy](./privacy-policy.md)
+
+## Screenshots
+
+![1](./images/1.png)
+![2](./images/2.png)
+![3](./images/3.png)
+![4](./images/4.png)
+
+## [Demo Video](https://www.youtube.com/watch?v=pnAQnVqd-wA)
