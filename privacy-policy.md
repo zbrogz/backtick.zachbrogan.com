@@ -1,4 +1,4 @@
-# [Backtick](https://backtick.zachbrogan.com) Privacy Policy
+# Privacy Policy
 
 The Backtick Chrome extension handles all user data securely and privately.
 

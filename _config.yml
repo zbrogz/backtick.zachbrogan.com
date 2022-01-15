@@ -1,12 +1,13 @@
 title: Backtick
-logo: /images/icon-500.png
 description: Website for the Backtick Chrome extension
+url: 'https://backtick.zachbrogan.com'
+logo: /images/logo.png
+search_enabled: false
 plugins:
     - jekyll-relative-links
 relative_links:
     enabled: true
     collections: true
-include:
+exclude:
     - README.md
-    - privacy-policy.md
 remote_theme: pmarsceill/just-the-docs
