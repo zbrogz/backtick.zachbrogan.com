@@ -1,8 +1,8 @@
 # Home
 
-Write inline code inside Google Docs. Just enclose a word or phrase with \`backticks\` and it will be automatically formatted as `inline code`.
+Backtick is Chrome extension that enables you to write inline code inside Google Docs. Just enclose a word or phrase with \`backticks\` and it will be automatically formatted as `inline code`. A great tool for software developers who are used to the feature in Slack, Github, Jira, Markdown files, etc.
 
-A great tool for software developers who are used to the feature in Slack, Github, Jira, Markdown files, etc.
+![2](./images/marquee.png)
 
 ## Features
 
