@@ -4,7 +4,7 @@
 >
 > About a year after this extension first came out, [Google released built-in inline code markdown support for Google Docs](https://workspaceupdates.googleblog.com/2022/12/format-display-code-google-docs.html), rendering this extension obsolete for most use-cases. The extension will remain for those want to continue using it, but I don't intend on making any further updates. To get the built-in inline code and code blocks working via backticks, ensure the Tools -> Preferences -> "Automatically detect Markdown" checkbox is enabled inside Google Docs.
 
-Backtick is Chrome extension that enables you to write inline code inside Google Docs. Just enclose a word or phrase with \`backticks\` and it will be automatically formatted as `inline code`. A great tool for software developers who are used to the feature in Slack, Github, Jira, Markdown files, etc.
+Backtick is [Chrome extension](https://chrome.google.com/webstore/detail/backtick/gfollmknbahbmikbkhepbggabhdpjlhh) that enables you to write inline code inside Google Docs. Just enclose a word or phrase with \`backticks\` and it will be automatically formatted as `inline code`. A great tool for software developers who are used to the feature in Slack, Github, Jira, Markdown files, etc.
 
 ![2](./images/marquee.png)
 
